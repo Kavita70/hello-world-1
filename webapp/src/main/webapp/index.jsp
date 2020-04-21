@@ -1,4 +1,3 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> Kavita Bhatnagar please work </h3>
+<h1> Hello, Welcome to self learning !!! </h1>
+<h2> welldone </h3>
 <h3> SUCCESSFULL </h3>
